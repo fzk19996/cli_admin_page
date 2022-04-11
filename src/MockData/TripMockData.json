@@ -1,0 +1,32 @@
+{
+    "time_line":{
+        "start_idx": "202202010401",
+        "end_idx": "202202010402"
+    },
+    "data": {
+        "Auto":[
+            {
+                "start_time": "20220201040110",
+                "end_time": "20220201040115",
+                "color": "blue"
+            },
+            {
+                "start_time": "20220201050110",
+                "end_time": "20220201050115",
+                "color": "blue"
+            }
+        ],
+        "Adc_Stagnant":[
+            {
+                "start_time": "20220201040110",
+                "end_time": "20220201040115",
+                "color": "green"
+            },
+            {
+                "start_time": "20220201050110",
+                "end_time": "20220201050115",
+                "color": "red"
+            }
+        ]
+    }
+}
